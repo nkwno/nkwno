@@ -1,6 +1,12 @@
-## Hi, I'm Nao
+## Welcome to my GitHub page!
 
 🧠 Cognitive Systems @ The University of British Columbia <br>
+
+I'm a third-year Cognitive Systems student at the University of British Columbia, specializing in Cognition and the Brain. My interests lie at the intersection of AI, computer vision, and full-stack development, and I love building tools that combine data, design, and impact.
+
+Currently, I'm developing a full-stack iOS fitness app that gives users real-time exercise feedback using MediaPipe, OpenCV, and a FastAPI backend hosted on Google Cloud Platform. I've also built projects in machine learning, including credit risk prediction models and health analytics dashboards that use public data and XGBoost, SHAP, and MongoDB for insight-driven modeling.
+
+I'm always exploring new ways to apply my skills to meaningful real-world problems, whether it's in healthcare, education, or personal development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nao-kawano)
