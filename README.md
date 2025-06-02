@@ -8,6 +8,8 @@ Currently, I'm developing a full-stack iOS fitness app that gives users real-tim
 
 I'm always exploring new ways to apply my skills to meaningful real-world problems, whether it's in healthcare, education, or personal development.
 
+Currently learning React!
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nao-kawano)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nkwno03) 
